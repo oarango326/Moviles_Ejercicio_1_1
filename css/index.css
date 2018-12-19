@@ -1,0 +1,40 @@
+div {
+    
+    border-width: 1px;
+    border-style: solid; 
+    border-color: aliceblue;
+}
+
+#contenedor1 {
+    border-style: solid; 
+}
+
+#titulo {
+    background-color:rgb(62, 173, 86);
+    height: 50px;
+}
+
+#colroja {
+    background-color:rgb(212, 71, 52);
+}
+
+#lcolrosa {
+    background-color:rgb(194, 136, 199);
+    height: 50px;
+}
+
+#naranja1 {
+    background-color:rgb(197, 132, 12);
+    padding: 70px;
+    
+}
+
+#azul {
+    background-color:rgb(12, 61, 197);
+    color: rgb(243, 243, 16);
+    padding: 70px;
+}
+#footer {
+    background-color:rgb(62, 173, 86);
+    padding: 30px
+}
